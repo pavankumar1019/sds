@@ -7,11 +7,9 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="keywords" content="">
-	<meta name="author" content="HugeBinary">
+	<meta name="author" content="pkwebdev">
 	<meta name="robots" content="">
-	<meta name="description" content="MoonCart Shop & eCommerce HTML Template">
-	<meta property="og:title" content="MoonCart Shop & eCommerce HTML Template">
-	<meta property="og:description" content="MoonCart Shop & eCommerce HTML Template">
+	<meta name="description" content="SDS RURAL DEGREE COLLEGE | BETHAMANGALA - KGF">
 	<meta name="format-detection" content="telephone=no">
 	
 	
