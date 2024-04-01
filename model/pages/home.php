@@ -189,24 +189,32 @@ Upholding the highest standards of ethics, integrity, and transparency in all ou
 					<div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
 						<a href="product-thumbnail.html" class="about-product-wrapper">
 							<div class="producṭ-content bg-light">
-								<h4 class="product-title">Bachelore of Science</h4>
-								<p class="product-text">One car seat that fits your child, vehicle and life from birth through booster</p>
+								<h4 class="product-title">B.Sc</h4>
+								<p class="product-text">Bachelore of Science <br> (Physics, Mathematics, Computer Science)</p>
 							</div>
 						</a>
 					</div>
 					<div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
 						<a href="product-thumbnail.html" class="about-product-wrapper">
 							<div class="producṭ-content bg-light">
-								<h4 class="product-title">Bachelore of Arts</h4>
-								<p class="product-text">Slim, space-saving design takes up less space in vehicle without compromising comfort</p>
+								<h4 class="product-title">B.A</h4>
+								<p class="product-text">Bachelore of Arts</p>
 							</div>
 						</a>
 					</div>
 					<div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
 						<a href="product-thumbnail.html" class="about-product-wrapper">
 							<div class="producṭ-content bg-light">
-								<h4 class="product-title">Bachelore of computer application</h4>
-								<p class="product-text">Chicco patented SuperCinch force-multiplying LATCH tightener ensures a tight and secure fit every time</p>
+								<h4 class="product-title">B.C.A</h4>
+								<p class="product-text">Bachelore of computer application</p>
+							</div>
+						</a>
+					</div>
+					<div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+						<a href="product-thumbnail.html" class="about-product-wrapper">
+							<div class="producṭ-content bg-light">
+								<h4 class="product-title">B.Com</h4>
+								<p class="product-text">Bachelore of Commerce</p>
 							</div>
 						</a>
 					</div>

@@ -14,6 +14,7 @@
 	<meta property="og:description" content="MoonCart Shop & eCommerce HTML Template">
 	<meta name="format-detection" content="telephone=no">
 	
+	
 	<!-- FAVICONS ICON -->
 	<link rel="icon" type="image/x-icon" href="images/favicon.png">
 	
@@ -24,14 +25,14 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
 	<!-- STYLESHEETS -->
-	<link rel="stylesheet" type="text/css" href="vendor/bootstrap-select/dist/css/bootstrap-select.min.css">
-	<link rel="stylesheet" type="text/css" href="icons/themify/themify-icons.css">
-	<link rel="stylesheet" type="text/css" href="icons/flaticon/flaticon_mooncart.css">
-	<link rel="stylesheet" type="text/css" href="vendor/magnific-popup/magnific-popup.min.css">
-	<link rel="stylesheet" type="text/css" href="icons/fontawesome/css/all.min.css">
-	<link rel="stylesheet" type="text/css" href="vendor/swiper/swiper-bundle.min.css">
-	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="<?=base()?>vendor/bootstrap-select/dist/css/bootstrap-select.min.css">
+	<link rel="stylesheet" type="text/css" href="<?=base()?>icons/themify/themify-icons.css">
+	<link rel="stylesheet" type="text/css" href="<?=base()?>icons/flaticon/flaticon_mooncart.css">
+	<link rel="stylesheet" type="text/css" href="<?=base()?>vendor/magnific-popup/magnific-popup.min.css">
+	<link rel="stylesheet" type="text/css" href="<?=base()?>icons/fontawesome/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="<?=base()?>vendor/swiper/swiper-bundle.min.css">
+	<link rel="stylesheet" type="text/css" href="<?=base()?>vendor/animate/animate.css">
+	<link rel="stylesheet" type="text/css" href="<?=base()?>css/style.css">
 	
 	<!-- GOOGLE FONTS-->
 	<link rel="preconnect" href="https://fonts.googleapis.com/">
