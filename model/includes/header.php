@@ -46,7 +46,7 @@
 	<div id="loading-area" class="preloader-wrapper-1">
 		<div>
 			<span class="loader-2"></span>
-			<img src="<?=base()?>logo.jpeg" alt="/">
+			<img src="<?=base()?>logo.png" alt="/">
 			<span class="loader"></span>
 		</div>
 	</div>
