@@ -78,7 +78,7 @@
 				<div class="container-fluid clearfix">
 					<!-- Website Logo -->
 					<div class="logo-header logo-dark me-md-5">
-						<a href="index.html"><img src="<?=base()?>logo.jpeg" alt="logo"></a>
+						<a href="<?=base()?>"><img src="<?=base()?>logo.jpeg" alt="logo"></a>
 					</div>
 					
 					<!-- Nav Toggle Button -->
