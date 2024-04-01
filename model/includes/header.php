@@ -16,7 +16,7 @@
 	
 	
 	<!-- FAVICONS ICON -->
-	<link rel="icon" type="image/x-icon" href="images/favicon.png">
+	<link rel="icon" type="image/x-icon" href="<?=base()?>logo.png">
 	
 	<!-- PAGE TITLE HERE -->
 	<title>SDS RURAL DEGREE COLLEGE | BETHAMANGALA - KGF</title>
@@ -24,6 +24,8 @@
 	<!-- MOBILE SPECIFIC -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
+
+
 	<!-- STYLESHEETS -->
 	<link rel="stylesheet" type="text/css" href="<?=base()?>vendor/bootstrap-select/dist/css/bootstrap-select.min.css">
 	<link rel="stylesheet" type="text/css" href="<?=base()?>icons/themify/themify-icons.css">
@@ -34,6 +36,25 @@
 	<link rel="stylesheet" type="text/css" href="<?=base()?>vendor/animate/animate.css">
 	<link rel="stylesheet" type="text/css" href="<?=base()?>css/style.css">
 	
+	<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="SDS RURAL DEGREE COLLEGE | BETHAMANGALA - KGF">
+<meta property="og:description" content="Enroll Today and Experience the SDS RURAL DEGREE COLLEGE  Difference!">
+<meta property="og:url" content="https://sds.pkwebdev.com/">
+<meta property="og:site_name" content="SDS RURAL DEGREE COLLEGE | BETHAMANGALA - KGF">
+<meta property="article:published_time" content="2024-03-16T00:00:00+00:00">
+<meta property="article:modified_time" content="2024-03-16T00:00:00+00:00">
+<meta property="og:image" content="https://sds.pkwebdev.com/ee2b199b-0374-4283-95f7-c167247da467.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:type" content="image/jpeg">
+<meta name="author" content="TJIS">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:label1" content="pkwebdev.com">
+<meta name="twitter:data1" content="TJIS-KGF">
+<meta name="twitter:label2" content="Est. reading time">
+<meta name="twitter:data2" content="3 minutes">
+
 	<!-- GOOGLE FONTS-->
 	<link rel="preconnect" href="https://fonts.googleapis.com/">
 	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
