@@ -1,5 +1,5 @@
 	<!--Featured Section Start-->
-    <section class="content-inner overlay-white-middle">
+    <section class="content-inner overlay-white-middle" style="margin-top:100px;">
 			<div class="container">
 				<div class="section-head style-2 wow fadeInUp" data-wow-delay="0.1s">
 					<div class="left-content">
