@@ -94,7 +94,7 @@
 					<!-- Main Nav -->
 					<div class="header-nav navbar-collapse collapse justify-content-start" id="navbarNavDropdown">
 						<div class="logo-header">
-							<a href="index.html"><img src="<?=base()?>logo.jpeg" alt=""></a>
+							<a href="<?=base()?>"><img src="<?=base()?>logo.jpeg" alt=""></a>
 						</div>
 						<ul class="nav navbar-nav dark-nav">
 							<li><a href="<?=base()?>">Home</a></li>
