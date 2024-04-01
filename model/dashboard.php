@@ -5,9 +5,9 @@ $request_uri = $_SERVER['REQUEST_URI'];
 $uri_parts = explode('?', $request_uri);
 $path = trim($uri_parts[0], '/');
 
-// Remove the "php/scientoworld/" prefix from the path
-if (strpos($path, 'php/live_websites/sds') === 0) {
-    $path = substr($path, strlen('php/live_websites/sds'));
+// Remove the "php/live_websites/sds" prefix from the path
+if (strpos($path, '/') === 0) {
+    $path = substr($path, strlen('/'));
 }
 
 // Split the path into segments
