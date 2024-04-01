@@ -98,20 +98,20 @@
 						</div>
 						<ul class="nav navbar-nav dark-nav">
 							<li><a href="<?=base()?>">Home</a></li>
-							<li><a href="<?=base()?>#about">About Us</a></li>
+							<li><a href="<?=base()?>home/#about">About Us</a></li>
 							<li class="sub-menu sub-menu-down"><a href="javascript:void(0);"><span>More</span></a>
 								<ul class="sub-menu">
 									
 									<li><a href="<?=base()?>more/#secretary">Secretary</a></li>
 									<li><a href="<?=base()?>more/#director">Director</a></li>
-									<li><a href="<?=base()?>#vission-mission">Vision & Mission</a></li>
+									<li><a href="<?=base()?>home/#vission-mission">Vision & Mission</a></li>
 									<li><a href="<?=base()?>more/#principal-desk">Principal Desk</a></li>
 								</ul>
 							</li>
 							<li class="sub-menu sub-menu-down"><a href="javascript:void(0);"><span>Quick Links</span></a>
 								<ul class="sub-menu">
-									<li><a href="<?=base()?>#programs-offered">Programs Offered</a></li>
-							<li><a href="<?=base()?>#Salient-Features">Salient Features</a></li>
+									<li><a href="<?=base()?>home/#programs-offered">Programs Offered</a></li>
+							<li><a href="<?=base()?>home/#Salient-Features">Salient Features</a></li>
 							<li><a href="<?=base()?>image-gallery">Images</a></li>
 							<li><a href="<?=base()?>contact-us">Career</a></li>
 					
