@@ -115,7 +115,20 @@
 <script src="<?=base()?>vendor/lightgallery/dist/plugins/thumbnail/lg-thumbnail.min.js"></script>
 <script src="<?=base()?>vendor/lightgallery/dist/plugins/zoom/lg-zoom.min.js"></script>
 <script src="<?=base()?>js/custom.js"></script><!-- CUSTOM JS -->
-
+<script>
+$(document).ready(function() {
+    // Add click event listener to Apply Now button
+    $('.applynow').click(function() {
+        // Show the modal
+        $('#myModal').modal('show');
+    });
+    $('.applynow1').click(function() {
+        // Show the modal
+        $('#myModal').modal('show');
+    });
+});
+	
+</script>
 
 </body>
 

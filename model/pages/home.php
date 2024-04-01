@@ -19,8 +19,10 @@
 												</div>
 												
 												<div class="content-btn" data-swiper-parallax="-60">
-													<a class="btn btn-secondary  me-xl-3 me-2 btnhover20" href="shop-cart.html">Call Us</a>
-													<a class="btn btn-outline-secondary btnhover20" href="product-default.html">Apply Now</a>
+													<a class="btn btn-secondary  me-xl-3 me-2 btnhover20" href="tel:+919980714646">Call Us</a>
+													<button type="button" class="btn btn-outline-secondary btnhover20 applynow">
+  Apply Now
+</button>
 												</div>
 											</div>
 										</div>
@@ -54,8 +56,9 @@
 												
 												<div class="content-btn" data-swiper-parallax="-60">
 													<a class="btn btn-secondary  me-xl-3 me-2 btnhover20" href="shop-cart.html">Call Us</a>
-													<a class="btn btn-outline-secondary btnhover20" href="product-default.html">Apply Now</a>
-												</div>
+													<button type="button" class="btn btn-outline-secondary btnhover20 applynow1" data-bs-toggle="modal" data-bs-target="#applyModal">
+  Apply Now
+</button>												</div>
 											</div>
 										</div>
 									</div>

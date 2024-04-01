@@ -865,12 +865,10 @@ var MoonCart = function(){
 			</div>
 		</div>`;
 
-		if(getCookie('prevent_subscription') != 'true'){
-			jQuery('body').append(modalBox);
-			setTimeout(function() {
-				jQuery("#myModal").modal('show');
-			}, 5000)
-		}
+		jQuery('body').append(modalBox);
+		setTimeout(function() {
+			jQuery("#myModal").modal('show');
+		}, 5000)
 	}
 	
 	var setCookie = function(cname, cvalue, exhours) {
@@ -1013,3 +1011,8 @@ jQuery(window).on('resize',function () {
 	MoonCart.resize();
 });
 /*  Window Resize END */
+
+
+jQuery('.applynow').on('click',function(){
+	jQuery("#myModal").modal('show');
+	});
