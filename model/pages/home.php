@@ -259,7 +259,7 @@ Upholding the highest standards of ethics, integrity, and transparency in all ou
 
 		
 		<!-- Our Feature -->
-		<section class="overlay-black-light our-features" style="background-image: url('sdsimages/WhatsApp Image 2024-03-25 at 8.24.42 PM (1).jpeg'); background-repeat:no-repeat; background-size:cover;">
+		<section class="overlay-black-light our-features" style="background-image: url('<?=base()?>sdsimages/WhatsApp Image 2024-03-25 at 8.24.42 PM (1).jpeg'); background-repeat:no-repeat; background-size:cover;">
 			<div class="container">
 				<div class="features-content wow fadeInUp" data-wow-delay="0.2s">
 					<h2>Education is the passport to the future, for tomorrow belongs to those who prepare for it today.</h2>
