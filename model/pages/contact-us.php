@@ -24,7 +24,7 @@
                             <div class="contact-right">
                                 <h3>Email Us</h3>
                                 <ul>
-                                    <li>info@scientoworld.com</li>
+                                    <li>office@sdsruralinstitutions.in</li>
                                 </ul>
                             </div>
                         </div>
@@ -33,7 +33,7 @@
                 <div class="col-lg-6">
                     <div class="contact-area1 style-1 m-r20 m-md-r0 wow fadeInUp" data-wow-delay="0.5s">
                         <form class="dz-form dzForm" method="POST"
-                            action="https://mooncart.dexignzone.com/xhtml/script/contact_smtp.php">
+                            action="">
                             <input type="hidden" class="form-control" name="dzToDo" value="Contact">
                             <input type="hidden" class="form-control" name="reCaptchaEnable" value="0">
                             <div class="dzFormMsg"></div>

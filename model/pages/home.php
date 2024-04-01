@@ -260,7 +260,7 @@ Upholding the highest standards of ethics, integrity, and transparency in all ou
 			<div class="container">
 				<div class="features-content wow fadeInUp" data-wow-delay="0.2s">
 					<h2>Education is the passport to the future, for tomorrow belongs to those who prepare for it today.</h2>
-					<a href="shop-list.html" class="btn btn-light">Explore now!</a>
+					<a href="<?=base()?>contact-us/" class="btn btn-light">Explore now!</a>
 				</div>
 			</div>
 		</section>
@@ -273,7 +273,7 @@ Upholding the highest standards of ethics, integrity, and transparency in all ou
 					<span> Our experts will help you find the program that's right for you.</span>
 				</h3>
 			</div>
-			<a href="contact-us-1.html" class="btn btn-light">Enquiry Now</a>
+			<a href="<?=base()?>contact-us/" class="btn btn-light">Enquiry now</a>
 		</section>
 		<!-- Get In Touch End -->
 		

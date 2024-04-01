@@ -93,8 +93,8 @@
 								<ul class="sub-menu">
 									<li><a href="<?=base()?>#programs-offered">Programs Offered</a></li>
 							<li><a href="<?=base()?>#Salient-Features">Salient Features</a></li>
-							<li><a href="contact-us-1.html">Images</a></li>
-							<li><a href="contact-us-1.html">Career</a></li>
+							<li><a href="<?=base()?>image-gallery">Images</a></li>
+							<li><a href="<?=base()?>contact-us">Career</a></li>
 					
 								
 								</ul>

@@ -825,7 +825,7 @@ var MoonCart = function(){
 		var modalBox = `<div class="modal fade inquiry-modal style-1" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
 			<div class="modal-dialog" role="document">
 				<div class="inquiry-adv p-4">
-					<img src="./logo.jpeg"  alt=""/>
+					<img src="https://sds.pkwebdev.com/logo.jpeg"  alt=""/>
 				</div>
 				<div class="modal-content">
 					<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
