@@ -6,18 +6,19 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="contact-info style-1 text-start text-white">
-                        <h2 class="title wow fadeInUp" data-wow-delay="0.1s">DISCOVER US</h2>
+                        <h2 class="title wow fadeInUp" data-wow-delay="0.1s">SDS Rural Degree College</h2>
                         <p class="text wow fadeInUp" data-wow-delay="0.2s"><span
                                 class="text-decoration-underline text-white"><a class="text-white"
-                                    href="our-team.html">Sciento World is here to help you;</a></span> <br> Our experts are
-                            available to answer any questions you might have. We’ve got the answers..</p>
+                                    href="our-team.html">Education is the passport to the future, for tomorrow belongs to those who prepare for it today.</a></span> <br> 
+                      </p>
                         <div class="contact-bottom wow fadeInUp" data-wow-delay="0.3s">
                             <div class="contact-left">
                                 <h3>Call Us</h3>
                                 <ul>
                              
-                                    <li>+91-9448466388 </li>
-                                    <li>+91-9740700557</li>
+                                    <li>+91-9980714646 </li>
+                                    <li>+91-9980135622</li>
+                                    <li>+91-9448377176</li>
                                 </ul>
                             </div>
                             <div class="contact-right">
@@ -66,7 +67,7 @@
     <div class="content-inner-2 pt-0">
         <div class="map-iframe map">
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15550.742317935808!2d78.2231289!3d12.9919511!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bade93504a8298b%3A0xfc3c1a2ec138db1f!2sScientoWorld!5e0!3m2!1sen!2sin!4v1710823181104!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.4612761054404!2d78.32483507417199!3d13.006271214118966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bad935565fb0ef3%3A0xf426bd8a3c15c791!2sSDS%20RURAL%20DEGREE%20COLLEGE%2C%20Bethamangala!5e0!3m2!1sen!2sin!4v1711969756705!5m2!1sen!2sin"
                 style="border:0; width:100%; min-height:100%; margin-bottom: -8px;" allowfullscreen></iframe>
         </div>
     </div>

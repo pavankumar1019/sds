@@ -46,7 +46,7 @@
 	<div id="loading-area" class="preloader-wrapper-1">
 		<div>
 			<span class="loader-2"></span>
-			<img src="./logo.jpeg" alt="/">
+			<img src="<?=base()?>logo.jpeg" alt="/">
 			<span class="loader"></span>
 		</div>
 	</div>
@@ -59,7 +59,7 @@
 				<div class="container-fluid clearfix">
 					<!-- Website Logo -->
 					<div class="logo-header logo-dark me-md-5">
-						<a href="index.html"><img src="./logo.jpeg" alt="logo"></a>
+						<a href="index.html"><img src="<?=base()?>logo.jpeg" alt="logo"></a>
 					</div>
 					
 					<!-- Nav Toggle Button -->
@@ -75,7 +75,7 @@
 					<!-- Main Nav -->
 					<div class="header-nav navbar-collapse collapse justify-content-start" id="navbarNavDropdown">
 						<div class="logo-header">
-							<a href="index.html"><img src="./logo.jpeg" alt=""></a>
+							<a href="index.html"><img src="<?=base()?>logo.jpeg" alt=""></a>
 						</div>
 						<ul class="nav navbar-nav dark-nav">
 							<li><a href="<?=base()?>">Home</a></li>
@@ -83,9 +83,10 @@
 							<li class="sub-menu sub-menu-down"><a href="javascript:void(0);"><span>More</span></a>
 								<ul class="sub-menu">
 									
-									<li><a href="about-me.html">Secretary</a></li>
+									<li><a href="<?=base()?>more/#secretary">Secretary</a></li>
+									<li><a href="<?=base()?>more/#director">Director</a></li>
 									<li><a href="<?=base()?>#vission-mission">Vision & Mission</a></li>
-									<li><a href="about-me.html">Principal Desk</a></li>
+									<li><a href="<?=base()?>more/#principal-desk">Principal Desk</a></li>
 								</ul>
 							</li>
 							<li class="sub-menu sub-menu-down"><a href="javascript:void(0);"><span>Quick Links</span></a>
@@ -98,7 +99,7 @@
 								
 								</ul>
 							</li>
-							<li><a href="contact-us-1.html">Contact Us</a></li>
+							<li><a href="<?=base()?>contact-us/">Contact Us</a></li>
 						</ul>
 						
 						

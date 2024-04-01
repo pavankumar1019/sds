@@ -1,4 +1,4 @@
-<footer class="site-footer  style-3">
+<footer class="site-footer  style-3" >
 		<!-- Footer Top -->
 		
 			<div class="container">
