@@ -83,7 +83,7 @@
 							<li class="sub-menu sub-menu-down"><a href="javascript:void(0);"><span>More</span></a>
 								<ul class="sub-menu">
 									
-									<li><a href="about-me.html">Founder</a></li>
+									<li><a href="about-me.html">Secretary</a></li>
 									<li><a href="about-us.html">Vision & Mission</a></li>
 									<li><a href="about-me.html">Principal Desk</a></li>
 								</ul>

@@ -27,8 +27,8 @@
 									</div>
 									<div class="col-md-6 col-sm-6">
 										<div class="banner-media">
-											<div class="img-preview" data-swiper-parallax="-100">
-												<img src="https://c1.wallpaperflare.com/preview/885/672/994/house-architecture-building-city.jpg" alt="banner-media">
+											<div class="img-preview" data-swiper-parallax="-2000">
+												<img src="<?=base()?>sdsimages/image1.jpeg" alt="banner-media">
 											</div>
 										</div>
 									</div>
@@ -61,8 +61,8 @@
 									</div>
 									<div class="col-md-6 col-sm-6">
 										<div class="banner-media">
-											<div class="img-preview" data-swiper-parallax="-100">
-												<img src="https://c1.wallpaperflare.com/preview/885/672/994/house-architecture-building-city.jpg" alt="banner-media">
+											<div class="img-preview" data-swiper-parallax="-1000">
+												<img src="<?=base()?>sdsimages/image2.jpeg" alt="banner-media">
 											</div>
 										</div>
 									</div>
@@ -126,7 +126,7 @@
 					
 					</div>
 					<div class="col-lg-6 col-md-5 wow fadeInRight" data-wow-delay="0.8s">
-						<div class="dz-product-media"><img src="images/products/car-seat.png" alt=""></div>
+						<div class="dz-product-media"><img src="<?=base()?>sdsimages/WhatsApp Image 2024-03-25 at 8.24.43 PM.jpeg" alt=""></div>
 					</div>
 				</div>
 			</div>
