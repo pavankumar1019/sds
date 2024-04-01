@@ -1,50 +1,16 @@
-<footer class="site-footer footer-dark style-3">
+<footer class="site-footer  style-3">
 		<!-- Footer Top -->
 		
 			<div class="container">
 				<div class="row">
-					<div class="col-md-4 col-lg-4 col-md-12 px-0">
-						<div class="row dz-post g-0 spno">
-							<div class="col-lg-6 col-6">
-								<div class="dz-post-media">
-									<img src="images/posts/pic1.png" alt="">
-								</div>
-							</div>
-							<div class="col-lg-6 col-6">
-								<div class="dz-post-media">
-									<img src="images/posts/pic2.png" alt="">
-								</div>
-							</div>
-							<div class="col-lg-6  col-6">	
-								<div class="dz-post-media">
-									<img src="images/posts/pic3.png" alt="">
-								</div>
-							</div>
-							<div class="col-lg-6 col-6">
-								<div class="dz-post-media">
-									<img src="images/posts/pic4.png" alt="">
-								</div>
-							</div>
-							<a href="javascript:void(0);" class="instagram-link">
-								<div class="follow-link bg-white wow bounceIn" data-wow-delay="0.1s">
-									<div class="follow-link-icon">
-										<img src="images/insta-follow.png" alt="">
-									</div>
-									<div class="follow-link-content">
-										<h4>Share with #MoonCart</h4>
-										<p>Follow @MoonCart for inspiration.</p>
-									</div>
-								</div>
-							</a>	
-						</div>
-					</div>
-                    <div class="col-md-8 col-lg-8 col-md-12">
+				
+                    <div class="col-md-12 col-lg-12 col-md-12">
                         <div class="footer-top">
 							<div class="dz-custom-container">
 								<div class="row align-items-center logo-topbar gx-0 wow fadeInUp" data-wow-delay="0.1s">
 									<div class="col-12 col-sm-6">
 										<div class="footer-logo logo-white mb-0">
-											<a href="index.html"><img src="images/logo-white.svg" alt=""></a> 
+											<a href="index.html"><img src="<?=base()?>logo.png" alt=""></a> 
 										</div>	
 									</div>
 									<div class="col-12 col-sm-6">

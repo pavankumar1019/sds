@@ -78,20 +78,20 @@
 							<a href="index.html"><img src="./logo.jpeg" alt=""></a>
 						</div>
 						<ul class="nav navbar-nav dark-nav">
-							<li><a href="contact-us-1.html">Home</a></li>
-							<li><a href="contact-us-1.html">About Us</a></li>
+							<li><a href="<?=base()?>">Home</a></li>
+							<li><a href="<?=base()?>#about">About Us</a></li>
 							<li class="sub-menu sub-menu-down"><a href="javascript:void(0);"><span>More</span></a>
 								<ul class="sub-menu">
 									
 									<li><a href="about-me.html">Secretary</a></li>
-									<li><a href="about-us.html">Vision & Mission</a></li>
+									<li><a href="<?=base()?>#vission-mission">Vision & Mission</a></li>
 									<li><a href="about-me.html">Principal Desk</a></li>
 								</ul>
 							</li>
 							<li class="sub-menu sub-menu-down"><a href="javascript:void(0);"><span>Quick Links</span></a>
 								<ul class="sub-menu">
-									<li><a href="contact-us-1.html">Programs Offered</a></li>
-							<li><a href="contact-us-1.html">Facilities</a></li>
+									<li><a href="<?=base()?>#programs-offered">Programs Offered</a></li>
+							<li><a href="<?=base()?>#Salient-Features">Salient Features</a></li>
 							<li><a href="contact-us-1.html">Images</a></li>
 							<li><a href="contact-us-1.html">Career</a></li>
 					

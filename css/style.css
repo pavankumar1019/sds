@@ -18995,16 +18995,16 @@ select {
     margin-right: 10px;
     color: #000; }
     .dz-social-icon.style-1 li a {
-      color: var(--primary);
+      color: #a02021;
       background-color: rgba(255, 255, 255, 0.1);
       width: 44px;
       height: 44px;
-      color: #fff;
+
       line-height: 44px;
       font-size: 20px;
       display: block; }
       .dz-social-icon.style-1 li a:hover {
-        background-color: var(--primary);
+        background-color: #a02021;
         color: #fff; }
   @media only screen and (max-width: 1191px) {
     .dz-social-icon.style-1 {
@@ -31020,7 +31020,7 @@ table.wishlist_table {
         height: 90px; } }
     @media only screen and (max-width: 575px) {
       .logo-header img {
-        max-width: 150px; } }
+        max-width: 60px; } }
 
 .top-bar {
   background-color: #fff;
